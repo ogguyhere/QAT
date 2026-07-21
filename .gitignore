@@ -1,0 +1,12 @@
+*.o
+*.dis
+.obsidian/
+*.gpr
+*.lock
+*.lock~
+*.rep/
+
+# compiled ARM exercise binaries (no extension), correct nested path
+QAT/Learning/ARM/arm-exercises/*_arm
+QAT/Learning/ARM/arm-exercises/*_thumb
+QAT/Learning/ARM/arm-exercises/*_arm02
